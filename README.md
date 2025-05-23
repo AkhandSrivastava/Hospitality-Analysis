@@ -80,7 +80,7 @@ A fully interactive Power BI dashboard project developed to analyze hotel perfor
 ## 🧩 Folder Structure
 
 ```bash
-├── Dataset/              # Sample data (if allowed)
-├── Screenshots/          # Dashboard visual snippets
+├── Dataset/              # Sample data
+├── Resources/            # Dashboard visual snippets
 ├── Report/               # .pbix Power BI report file
 └── README.md             # Project documentation
