@@ -81,6 +81,6 @@ A fully interactive Power BI dashboard project developed to analyze hotel perfor
 
 ```bash
 ├── Dataset/              # Sample data
-├── Resources/            # Dashboard visual snippets
 ├── Report/               # .pbix Power BI report file
+├── Resources/            # Dashboard visual snippets
 └── README.md             # Project documentation
